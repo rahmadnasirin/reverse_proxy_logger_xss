@@ -1,0 +1,34 @@
+=== XSS Test Log === 2025-08-05 17:45:24.298377
+
+Payload: <script>alert('XSS1')</script>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: "><script>alert('XSS2')</script>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: <img src=x onerror=alert('XSS3')>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: <svg onload=alert('XSS4')>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: <body onload=alert('XSS5')>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: '><svg/onload=alert(1337)>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: <iframe src=javascript:alert('xss')>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+
+Payload: <svg><script>alert(1)</script>
+  -> Email field   : AMAN
+  -> Password field: AMAN
+

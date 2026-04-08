@@ -1,0 +1,14 @@
+{
+    "Jenis Serangan": "Brute Force",
+    "True Positive Rate": 1.0,
+    "False Positive Rate": 0.0,
+    "False Negative Rate": 0.0,
+    "CPU Sebelum (%)": 10.9,
+    "RAM Sebelum (%)": 65.6,
+    "CPU Rata-rata Selama Serangan (%)": 28.35,
+    "RAM Rata-rata Selama Serangan (%)": 65.45,
+    "CPU Setelah (%)": 36.4,
+    "RAM Setelah (%)": 64.0,
+    "Rata-rata Waktu Deteksi (detik)": 1637.82,
+    "Total Serangan Terdeteksi": 4610
+}

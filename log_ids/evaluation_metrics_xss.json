@@ -1,0 +1,19 @@
+{
+  "Tipe_Ujian": "XSS",
+  "Total_Payload_Diuji": 8,
+  "Total_Email_Rentan_XSS": 0,
+  "Total_Password_Rentan_XSS": 0,
+  "Persentase_Email_Rentan_%": 0.0,
+  "Persentase_Password_Rentan_%": 0.0,
+  "Jumlah_Error_HTTP_Email": 0,
+  "Jumlah_Error_HTTP_Password": 0,
+  "Rata2_Waktu_Respon_Email_Detik": 2.049,
+  "Rata2_Waktu_Respon_Password_Detik": 2.05,
+  "CPU_Sebelum_%": 60.5,
+  "RAM_Sebelum_%": 66.4,
+  "Rata2_CPU_Saat_Serangan_%": 30.0,
+  "Rata2_RAM_Saat_Serangan_%": 66.81,
+  "CPU_Sesudah_%": 28.0,
+  "RAM_Sesudah_%": 66.9,
+  "Waktu_Ujian_Selesai": "2026-02-04 13:10:40.762272"
+}
